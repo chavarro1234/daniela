@@ -1,0 +1,30 @@
+body{
+margin: 0;
+background: red;
+}
+.box{
+    width: 300px;
+    height: 400px;
+    box-shadow: 10px 20px 10px 1px black ;
+    background: url(https://img.wattpad.com/252701d1fd02031bff091dd284a51e15ab1449d3/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f7938735a523239586451644149773d3d2d3535333132323031322e313531666438646537333538396162623334363432373134343530392e6a7067) center / cover no-repeat;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+    
+    position: relative;
+    border-top: 6px solid rgb(0, 0, 0);
+    border-radius: 5px;
+}
+
+.capa{
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(transparent, rgba(0, 0, 0, 0.671));
+}
+
+
+h1{
+    padding-top: 20px;
+    color: white;
+    margin: 0;
+}
